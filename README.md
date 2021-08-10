@@ -1,1 +1,1 @@
-# atd
+# ATD - abstract type date

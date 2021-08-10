@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "files": [
+            "src/LinkedList.php",
+            "src/Stack.php"
+        ]
+    },
+    "config": {
+        "vendor-dir": "./vendor"
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
